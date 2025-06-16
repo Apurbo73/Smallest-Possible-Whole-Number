@@ -1,4 +1,4 @@
-### Smallest Possible-Whole-Number:
+### Smallest Possible Whole-Number:
 
 
  This C++ program processes multiple test cases to compute a simple modulus operation, depending on the value of K.
